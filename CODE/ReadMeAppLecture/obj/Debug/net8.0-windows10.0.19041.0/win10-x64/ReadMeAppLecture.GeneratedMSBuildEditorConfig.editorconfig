@@ -1,0 +1,61 @@
+is_global = true
+build_property.TargetFramework = net8.0-windows10.0.19041.0
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 9A19103F-16F7-4668-BE54-9A1E7A4F7556
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ReadMeAppLecture
+build_property.ProjectDir = C:\Users\pq17tmn\OneDrive - Education Vaud\ETML\CID2B\4\P_Passion_Lecture\Code\ReadMeAppLecture\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/pq17tmn/OneDrive - Education Vaud/ETML/CID2B/4/P_Passion_Lecture/Code/ReadMeAppLecture/.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ReadMeAppLecture..xaml
+build_metadata.AdditionalFiles.TargetPath = .xaml
+build_metadata.AdditionalFiles.RelativePath = .xaml
+
+[C:/Users/pq17tmn/OneDrive - Education Vaud/ETML/CID2B/4/P_Passion_Lecture/Code/ReadMeAppLecture/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ReadMeAppLecture.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/pq17tmn/OneDrive - Education Vaud/ETML/CID2B/4/P_Passion_Lecture/Code/ReadMeAppLecture/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ReadMeAppLecture.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/pq17tmn/OneDrive - Education Vaud/ETML/CID2B/4/P_Passion_Lecture/Code/ReadMeAppLecture/Library.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ReadMeAppLecture.Library.xaml
+build_metadata.AdditionalFiles.TargetPath = Library.xaml
+build_metadata.AdditionalFiles.RelativePath = Library.xaml
+
+[C:/Users/pq17tmn/OneDrive - Education Vaud/ETML/CID2B/4/P_Passion_Lecture/Code/ReadMeAppLecture/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ReadMeAppLecture.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/pq17tmn/OneDrive - Education Vaud/ETML/CID2B/4/P_Passion_Lecture/Code/ReadMeAppLecture/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ReadMeAppLecture.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/pq17tmn/OneDrive - Education Vaud/ETML/CID2B/4/P_Passion_Lecture/Code/ReadMeAppLecture/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ReadMeAppLecture.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/pq17tmn/OneDrive - Education Vaud/ETML/CID2B/4/P_Passion_Lecture/Code/ReadMeAppLecture/Settings.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ReadMeAppLecture.Settings.xaml
+build_metadata.AdditionalFiles.TargetPath = Settings.xaml
+build_metadata.AdditionalFiles.RelativePath = Settings.xaml

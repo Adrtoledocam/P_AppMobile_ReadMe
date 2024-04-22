@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ReadMeAppLecture.MainPage"        
+             BackgroundColor="DarkBlue"
+             Title="">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="40,0"
+            Spacing="30">
+
+            <Image
+                Margin="0,50,0,00"
+                Source="readme_logo.png"
+                HeightRequest="100"
+                />
+
+            <Label
+                Margin="0,40,0,0"
+                Text="Your last book"
+                Style="{StaticResource SubHeadline}"
+                TextColor="White"
+                 />
+            <Image
+                Source="sherlock_holmes.png"
+                HeightRequest="185"
+                Aspect="AspectFit"
+                />
+            <Label
+                Margin="145,-20,0,10"
+                Text="42/420"
+                FontSize="Subtitle"
+                TextColor="White"
+                />
+            
+            <Button
+                x:Name="Read"
+                Text="Continue Reading" 
+                HorizontalOptions="Fill" />
+
+            <Button
+                x:Name="AddBook"
+                Text="Add a new book" 
+                
+                HorizontalOptions="Fill" />
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
