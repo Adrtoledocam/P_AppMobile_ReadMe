@@ -2,16 +2,99 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ReadMeAppLecture.Library"
-             BackgroundColor="DarkBlue"
+             BackgroundColor="#16161A"
              Title="Library">
     <VerticalStackLayout>
         <Label 
             Text="Library"
             VerticalOptions="Center" 
-            HorizontalOptions="Center" />
+            HorizontalOptions="Center" 
+            Margin="0,20,0,10"
+            TextColor="White"/>
 
-        <FlexLayout Margin="0,10,0,10" JustifyContent="SpaceAround">
-        </FlexLayout>
+        <Grid RowSpacing="1" ColumnSpacing="2" Margin="0,0,0,10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid ColumnSpacing="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions> 
+                <Label Text="Date ⬇"   Grid.Column="0" BackgroundColor="#2E2D3F" TextColor="White"  HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+                <Label Text="A-Z ⬇" Grid.Column="1" BackgroundColor="#2E2D3F" TextColor="White"  HorizontalTextAlignment="Center" VerticalTextAlignment="Center" />
+            </Grid>
+            
+            <Label Text="#Tags"  BackgroundColor="#2E2D3F" TextColor="White" Grid.Row="0" Grid.Column="1" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+        </Grid>
+        
+            <Grid RowSpacing="3" ColumnSpacing="2" Margin="3,0,3,0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="300"/>
+                    <RowDefinition Height="300"/>
+                    <RowDefinition Height="250"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                
+            <VerticalStackLayout Spacing="1" BackgroundColor="#2E2D3F"  Grid.Row="0" Grid.Column="0">
+                <Label Text="Sherlock Holmes"
+                   HorizontalTextAlignment="Center"
+                   TextColor="White"/>
+                <Label Text="Arthur Conan Doyle"
+                   HorizontalTextAlignment="Center"
+                   TextColor="#989898"/>
+                <Image Source="sherlock_holmes.png"
+                    HeightRequest="185"
+                    Aspect="AspectFit"/>
+                <Label Text="40/420"
+                       HorizontalTextAlignment="Center"
+                       TextColor="#989898"/>
+                
+                <Label Text="#Mistery #Adventure #Police"
+                       HorizontalTextAlignment="Center"
+                       TextColor="#989898" 
+                       Margin="0,5,0,0"
+                       />
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Label  Text="15.05.2024"
+                            TextColor="#989898"
+                            WidthRequest="100"
+                            HorizontalOptions="StartAndExpand"
+                            Grid.Column="0"
+                            Margin="10,8,0,0"
+                            />
+                    <Button  Text="+"
+                        TextColor="#ac0489"
+                        BackgroundColor="Transparent"
+                        HeightRequest="40"
+                        WidthRequest="40"
+                        HorizontalOptions="EndAndExpand"
+                        Grid.Column="1"
+                        FontAttributes="Bold"
+                        FontSize="20"
+                        Margin="0,-8,0,0"
+                    />
+                </Grid>
+            </VerticalStackLayout>
+            <BoxView Color="#2E2D3F" Grid.Row="0" Grid.Column="1"/>
+            <BoxView Color="#2E2D3F" Grid.Row="1" Grid.Column="0"/>
+            <BoxView Color="#2E2D3F" Grid.Row="1" Grid.Column="1"/>
+            <BoxView Color="#2E2D3F" Grid.Row="2" Grid.Column="0"/>
+            <BoxView Color="#2E2D3F" Grid.Row="2" Grid.Column="1"/>
+            </Grid>
+            
     </VerticalStackLayout>
     
     

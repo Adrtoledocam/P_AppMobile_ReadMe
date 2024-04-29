@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReadMeAppLecture")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+5d70a19a221c7c5d4bbded398e32489a1854bead")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReadMeAppLecture")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReadMeAppLecture")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

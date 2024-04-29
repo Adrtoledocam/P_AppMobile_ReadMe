@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pq17tmn\\OneDrive - Education Vaud\\ETML\\CID2B\\4\\P_Passion_Lecture\\Code\\ReadMeAppLecture\\ReadMeAppLecture.csproj": {}
+    "C:\\Users\\pq17tmn\\Documents\\GitHub\\P_AppMobile_ReadMe\\CODE\\ReadMeAppLecture\\ReadMeAppLecture.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pq17tmn\\OneDrive - Education Vaud\\ETML\\CID2B\\4\\P_Passion_Lecture\\Code\\ReadMeAppLecture\\ReadMeAppLecture.csproj": {
+    "C:\\Users\\pq17tmn\\Documents\\GitHub\\P_AppMobile_ReadMe\\CODE\\ReadMeAppLecture\\ReadMeAppLecture.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pq17tmn\\OneDrive - Education Vaud\\ETML\\CID2B\\4\\P_Passion_Lecture\\Code\\ReadMeAppLecture\\ReadMeAppLecture.csproj",
+        "projectUniqueName": "C:\\Users\\pq17tmn\\Documents\\GitHub\\P_AppMobile_ReadMe\\CODE\\ReadMeAppLecture\\ReadMeAppLecture.csproj",
         "projectName": "ReadMeAppLecture",
-        "projectPath": "C:\\Users\\pq17tmn\\OneDrive - Education Vaud\\ETML\\CID2B\\4\\P_Passion_Lecture\\Code\\ReadMeAppLecture\\ReadMeAppLecture.csproj",
+        "projectPath": "C:\\Users\\pq17tmn\\Documents\\GitHub\\P_AppMobile_ReadMe\\CODE\\ReadMeAppLecture\\ReadMeAppLecture.csproj",
         "packagesPath": "C:\\Users\\pq17tmn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pq17tmn\\OneDrive - Education Vaud\\ETML\\CID2B\\4\\P_Passion_Lecture\\Code\\ReadMeAppLecture\\obj\\",
+        "outputPath": "C:\\Users\\pq17tmn\\Documents\\GitHub\\P_AppMobile_ReadMe\\CODE\\ReadMeAppLecture\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VdlmeFQDs4hGRe0Yma/LWRStiMtFNnBazNX42TYQqSOpMTxh9DDpp0cUnLyqiodDQwiTvfb6Pz0YJE5KrzmHRQ==",
+  "dgSpecHash": "r2Q0crf3OtlNJVOpiXK3UQynYgwQKxdhgmP9Ujl2pg71/ijQUApZCGgJ7QYgmpyv/4PA9uiaepPnY2uxzy3UIw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pq17tmn\\OneDrive - Education Vaud\\ETML\\CID2B\\4\\P_Passion_Lecture\\Code\\ReadMeAppLecture\\ReadMeAppLecture.csproj",
+  "projectFilePath": "C:\\Users\\pq17tmn\\Documents\\GitHub\\P_AppMobile_ReadMe\\CODE\\ReadMeAppLecture\\ReadMeAppLecture.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pq17tmn\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\pq17tmn\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
