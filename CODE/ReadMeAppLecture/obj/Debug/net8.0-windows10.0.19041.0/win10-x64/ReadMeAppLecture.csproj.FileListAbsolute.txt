@@ -1,0 +1,12 @@
+C:\Users\pq17tmn\Documents\GitHub\P_AppMobile_ReadMe\CODE\ReadMeAppLecture\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ReadMeAppLecture.csproj.AssemblyReference.cache
+C:\Users\pq17tmn\Documents\GitHub\P_AppMobile_ReadMe\CODE\ReadMeAppLecture\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\Users\pq17tmn\Documents\GitHub\P_AppMobile_ReadMe\CODE\ReadMeAppLecture\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\Users\pq17tmn\Documents\GitHub\P_AppMobile_ReadMe\CODE\ReadMeAppLecture\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\Users\pq17tmn\Documents\GitHub\P_AppMobile_ReadMe\CODE\ReadMeAppLecture\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\Users\pq17tmn\Documents\GitHub\P_AppMobile_ReadMe\CODE\ReadMeAppLecture\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\Users\pq17tmn\Documents\GitHub\P_AppMobile_ReadMe\CODE\ReadMeAppLecture\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\Users\pq17tmn\Documents\GitHub\P_AppMobile_ReadMe\CODE\ReadMeAppLecture\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\Users\pq17tmn\Documents\GitHub\P_AppMobile_ReadMe\CODE\ReadMeAppLecture\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\Users\pq17tmn\Documents\GitHub\P_AppMobile_ReadMe\CODE\ReadMeAppLecture\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\pq17tmn\Documents\GitHub\P_AppMobile_ReadMe\CODE\ReadMeAppLecture\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\Users\pq17tmn\Documents\GitHub\P_AppMobile_ReadMe\CODE\ReadMeAppLecture\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ReadMeAppLecture.GeneratedMSBuildEditorConfig.editorconfig

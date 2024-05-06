@@ -18,6 +18,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = ReadMeAppLecture..xaml
 build_metadata.AdditionalFiles.TargetPath = .xaml
 build_metadata.AdditionalFiles.RelativePath = .xaml
 
+[C:/Users/pq17tmn/Documents/GitHub/P_AppMobile_ReadMe/CODE/ReadMeAppLecture/ApiPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ReadMeAppLecture.ApiPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ApiPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ApiPage.xaml
+
 [C:/Users/pq17tmn/Documents/GitHub/P_AppMobile_ReadMe/CODE/ReadMeAppLecture/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ReadMeAppLecture.App.xaml

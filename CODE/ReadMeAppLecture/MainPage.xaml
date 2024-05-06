@@ -21,6 +21,7 @@
                 Text="Your last book"
                 Style="{StaticResource SubHeadline}"
                 TextColor="White"
+                
                  />
             <Image
                 Source="sherlock_holmes.png"

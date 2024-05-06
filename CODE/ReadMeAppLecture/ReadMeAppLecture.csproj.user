@@ -3,7 +3,7 @@
   <PropertyGroup>
     <IsFirstTimeProjectOpen>False</IsFirstTimeProjectOpen>
     <ActiveDebugFramework>net8.0-android</ActiveDebugFramework>
-    <ActiveDebugProfile>Google Pixel 7 Pro (Android 13.0 - API 33)</ActiveDebugProfile>
+    <ActiveDebugProfile>Pixel_7a_API_34 (Android 14.0 - API 34)</ActiveDebugProfile>
     <SelectedPlatformGroup>PhysicalDevice</SelectedPlatformGroup>
   </PropertyGroup>
   <ItemGroup>
@@ -11,6 +11,9 @@
       <SubType>Designer</SubType>
     </MauiXaml>
     <MauiXaml Update="Library.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="ApiPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
     <MauiXaml Update="Settings.xaml">
