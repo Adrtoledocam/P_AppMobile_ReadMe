@@ -2097,3 +2097,4 @@ C:\Users\pq17tmn\Documents\GitHub\P_AppMobile_ReadMe\CODE\ReadMeAppLecture\obj\D
 C:\Users\pq17tmn\Documents\GitHub\P_AppMobile_ReadMe\CODE\ReadMeAppLecture\obj\Debug\net8.0-android\android\assets\SQLitePCLRaw.core.dll
 C:\Users\pq17tmn\Documents\GitHub\P_AppMobile_ReadMe\CODE\ReadMeAppLecture\obj\Debug\net8.0-android\android\assets\SQLitePCLRaw.lib.e_sqlite3.android.dll
 C:\Users\pq17tmn\Documents\GitHub\P_AppMobile_ReadMe\CODE\ReadMeAppLecture\obj\Debug\net8.0-android\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\pq17tmn\Documents\GitHub\P_AppMobile_ReadMe\CODE\ReadMeAppLecture\obj\Debug\net8.0-android\res\resources\xml\network_security_config.xml

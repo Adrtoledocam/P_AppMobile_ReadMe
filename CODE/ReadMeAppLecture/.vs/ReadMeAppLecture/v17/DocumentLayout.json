@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\pq17tmn\\Documents\\GitHub\\P_AppMobile_ReadMe\\CODE\\ReadMeAppLecture\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{009BC6C2-3319-417A-A74C-8D4678B6854B}|ReadMeAppLecture.csproj|c:\\users\\pq17tmn\\documents\\github\\p_appmobile_readme\\code\\readmeapplecture\\resources\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{009BC6C2-3319-417A-A74C-8D4678B6854B}|ReadMeAppLecture.csproj|solutionrelative:resources\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{009BC6C2-3319-417A-A74C-8D4678B6854B}|ReadMeAppLecture.csproj|c:\\users\\pq17tmn\\documents\\github\\p_appmobile_readme\\code\\readmeapplecture\\resources\\xml\\network_security_config.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{009BC6C2-3319-417A-A74C-8D4678B6854B}|ReadMeAppLecture.csproj|solutionrelative:resources\\xml\\network_security_config.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{009BC6C2-3319-417A-A74C-8D4678B6854B}|ReadMeAppLecture.csproj|c:\\users\\pq17tmn\\documents\\github\\p_appmobile_readme\\code\\readmeapplecture\\apipage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009BC6C2-3319-417A-A74C-8D4678B6854B}|ReadMeAppLecture.csproj|solutionrelative:apipage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{009BC6C2-3319-417A-A74C-8D4678B6854B}|ReadMeAppLecture.csproj|c:\\users\\pq17tmn\\documents\\github\\p_appmobile_readme\\code\\readmeapplecture\\apipage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{009BC6C2-3319-417A-A74C-8D4678B6854B}|ReadMeAppLecture.csproj|solutionrelative:apipage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{009BC6C2-3319-417A-A74C-8D4678B6854B}|ReadMeAppLecture.csproj|c:\\users\\pq17tmn\\documents\\github\\p_appmobile_readme\\code\\readmeapplecture\\apipage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{009BC6C2-3319-417A-A74C-8D4678B6854B}|ReadMeAppLecture.csproj|solutionrelative:apipage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{009BC6C2-3319-417A-A74C-8D4678B6854B}|ReadMeAppLecture.csproj|c:\\users\\pq17tmn\\documents\\github\\p_appmobile_readme\\code\\readmeapplecture\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{009BC6C2-3319-417A-A74C-8D4678B6854B}|ReadMeAppLecture.csproj|solutionrelative:platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{009BC6C2-3319-417A-A74C-8D4678B6854B}|ReadMeAppLecture.csproj|c:\\users\\pq17tmn\\documents\\github\\p_appmobile_readme\\code\\readmeapplecture\\.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{009BC6C2-3319-417A-A74C-8D4678B6854B}|ReadMeAppLecture.csproj|solutionrelative:.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{009BC6C2-3319-417A-A74C-8D4678B6854B}|ReadMeAppLecture.csproj|c:\\users\\pq17tmn\\documents\\github\\p_appmobile_readme\\code\\readmeapplecture\\resources\\xml\\network_security_config.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{009BC6C2-3319-417A-A74C-8D4678B6854B}|ReadMeAppLecture.csproj|solutionrelative:resources\\xml\\network_security_config.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009BC6C2-3319-417A-A74C-8D4678B6854B}|ReadMeAppLecture.csproj|c:\\users\\pq17tmn\\documents\\github\\p_appmobile_readme\\code\\readmeapplecture\\settings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{009BC6C2-3319-417A-A74C-8D4678B6854B}|ReadMeAppLecture.csproj|solutionrelative:settings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009BC6C2-3319-417A-A74C-8D4678B6854B}|ReadMeAppLecture.csproj|c:\\users\\pq17tmn\\documents\\github\\p_appmobile_readme\\code\\readmeapplecture\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009BC6C2-3319-417A-A74C-8D4678B6854B}|ReadMeAppLecture.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{009BC6C2-3319-417A-A74C-8D4678B6854B}|ReadMeAppLecture.csproj|c:\\users\\pq17tmn\\documents\\github\\p_appmobile_readme\\code\\readmeapplecture\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{009BC6C2-3319-417A-A74C-8D4678B6854B}|ReadMeAppLecture.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009BC6C2-3319-417A-A74C-8D4678B6854B}|ReadMeAppLecture.csproj|c:\\users\\pq17tmn\\documents\\github\\p_appmobile_readme\\code\\readmeapplecture\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009BC6C2-3319-417A-A74C-8D4678B6854B}|ReadMeAppLecture.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009BC6C2-3319-417A-A74C-8D4678B6854B}|ReadMeAppLecture.csproj|c:\\users\\pq17tmn\\documents\\github\\p_appmobile_readme\\code\\readmeapplecture\\.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{009BC6C2-3319-417A-A74C-8D4678B6854B}|ReadMeAppLecture.csproj|solutionrelative:.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{009BC6C2-3319-417A-A74C-8D4678B6854B}|ReadMeAppLecture.csproj|c:\\users\\pq17tmn\\documents\\github\\p_appmobile_readme\\code\\readmeapplecture\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -37,14 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{009BC6C2-3319-417A-A74C-8D4678B6854B}|ReadMeAppLecture.csproj|c:\\users\\pq17tmn\\documents\\github\\p_appmobile_readme\\code\\readmeapplecture\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{009BC6C2-3319-417A-A74C-8D4678B6854B}|ReadMeAppLecture.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{009BC6C2-3319-417A-A74C-8D4678B6854B}|ReadMeAppLecture.csproj|c:\\users\\pq17tmn\\documents\\github\\p_appmobile_readme\\code\\readmeapplecture\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{009BC6C2-3319-417A-A74C-8D4678B6854B}|ReadMeAppLecture.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{009BC6C2-3319-417A-A74C-8D4678B6854B}|ReadMeAppLecture.csproj|c:\\users\\pq17tmn\\documents\\github\\p_appmobile_readme\\code\\readmeapplecture\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{009BC6C2-3319-417A-A74C-8D4678B6854B}|ReadMeAppLecture.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,50 +58,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "AndroidManifest.xml",
-              "DocumentMoniker": "C:\\Users\\pq17tmn\\Documents\\GitHub\\P_AppMobile_ReadMe\\CODE\\ReadMeAppLecture\\Resources\\AndroidManifest.xml",
-              "RelativeDocumentMoniker": "Resources\\AndroidManifest.xml",
-              "ToolTip": "C:\\Users\\pq17tmn\\Documents\\GitHub\\P_AppMobile_ReadMe\\CODE\\ReadMeAppLecture\\Resources\\AndroidManifest.xml",
-              "RelativeToolTip": "Resources\\AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\pq17tmn\\Documents\\GitHub\\P_AppMobile_ReadMe\\CODE\\ReadMeAppLecture\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\pq17tmn\\Documents\\GitHub\\P_AppMobile_ReadMe\\CODE\\ReadMeAppLecture\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "Platforms\\Android\\AndroidManifest.xml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-05-06T12:22:22.765Z",
+              "WhenOpened": "2024-05-13T13:08:16.41Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "Settings.xaml",
+              "DocumentMoniker": "C:\\Users\\pq17tmn\\Documents\\GitHub\\P_AppMobile_ReadMe\\CODE\\ReadMeAppLecture\\Settings.xaml",
+              "RelativeDocumentMoniker": "Settings.xaml",
+              "ToolTip": "C:\\Users\\pq17tmn\\Documents\\GitHub\\P_AppMobile_ReadMe\\CODE\\ReadMeAppLecture\\Settings.xaml",
+              "RelativeToolTip": "Settings.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T12:40:48.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "ApiPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\pq17tmn\\Documents\\GitHub\\P_AppMobile_ReadMe\\CODE\\ReadMeAppLecture\\ApiPage.xaml.cs",
               "RelativeDocumentMoniker": "ApiPage.xaml.cs",
               "ToolTip": "C:\\Users\\pq17tmn\\Documents\\GitHub\\P_AppMobile_ReadMe\\CODE\\ReadMeAppLecture\\ApiPage.xaml.cs",
               "RelativeToolTip": "ApiPage.xaml.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBgAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-06T10:53:15.892Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ApiPage.xaml",
               "DocumentMoniker": "C:\\Users\\pq17tmn\\Documents\\GitHub\\P_AppMobile_ReadMe\\CODE\\ReadMeAppLecture\\ApiPage.xaml",
               "RelativeDocumentMoniker": "ApiPage.xaml",
               "ToolTip": "C:\\Users\\pq17tmn\\Documents\\GitHub\\P_AppMobile_ReadMe\\CODE\\ReadMeAppLecture\\ApiPage.xaml",
               "RelativeToolTip": "ApiPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-05-06T10:53:09.595Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": ".xaml",
               "DocumentMoniker": "C:\\Users\\pq17tmn\\Documents\\GitHub\\P_AppMobile_ReadMe\\CODE\\ReadMeAppLecture\\.xaml",
               "RelativeDocumentMoniker": ".xaml",
@@ -110,20 +127,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "network_security_config.xml",
               "DocumentMoniker": "C:\\Users\\pq17tmn\\Documents\\GitHub\\P_AppMobile_ReadMe\\CODE\\ReadMeAppLecture\\Resources\\xml\\network_security_config.xml",
               "RelativeDocumentMoniker": "Resources\\xml\\network_security_config.xml",
               "ToolTip": "C:\\Users\\pq17tmn\\Documents\\GitHub\\P_AppMobile_ReadMe\\CODE\\ReadMeAppLecture\\Resources\\xml\\network_security_config.xml",
               "RelativeToolTip": "Resources\\xml\\network_security_config.xml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
               "WhenOpened": "2024-05-06T10:34:59.665Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "C:\\Users\\pq17tmn\\Documents\\GitHub\\P_AppMobile_ReadMe\\CODE\\ReadMeAppLecture\\MauiProgram.cs",
               "RelativeDocumentMoniker": "MauiProgram.cs",
@@ -136,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "C:\\Users\\pq17tmn\\Documents\\GitHub\\P_AppMobile_ReadMe\\CODE\\ReadMeAppLecture\\AppShell.xaml",
               "RelativeDocumentMoniker": "AppShell.xaml",
@@ -149,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "AppShell.xaml.cs",
               "DocumentMoniker": "C:\\Users\\pq17tmn\\Documents\\GitHub\\P_AppMobile_ReadMe\\CODE\\ReadMeAppLecture\\AppShell.xaml.cs",
               "RelativeDocumentMoniker": "AppShell.xaml.cs",
@@ -162,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\pq17tmn\\Documents\\GitHub\\P_AppMobile_ReadMe\\CODE\\ReadMeAppLecture\\MainPage.xaml",
               "RelativeDocumentMoniker": "MainPage.xaml",
@@ -170,12 +187,11 @@
               "RelativeToolTip": "MainPage.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-22T13:13:47.166Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T13:13:47.166Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\pq17tmn\\Documents\\GitHub\\P_AppMobile_ReadMe\\CODE\\ReadMeAppLecture\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "MainPage.xaml.cs",
@@ -183,12 +199,11 @@
               "RelativeToolTip": "MainPage.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T13:14:24.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T13:14:24.373Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Library.xaml",
               "DocumentMoniker": "C:\\Users\\pq17tmn\\Documents\\GitHub\\P_AppMobile_ReadMe\\CODE\\ReadMeAppLecture\\Library.xaml",
               "RelativeDocumentMoniker": "Library.xaml",
@@ -196,8 +211,7 @@
               "RelativeToolTip": "Library.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-22T13:12:34.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T13:12:34.086Z"
             }
           ]
         }

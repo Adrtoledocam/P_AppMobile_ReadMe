@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="ReadMeAppLecture" android:versionName="0.1">
-	<application android:networkSecurityConfig="@xml/network:_security_config" android:supportsRtl="true" android:label="ReadMe">
-		
-	</application>
-</manifest>

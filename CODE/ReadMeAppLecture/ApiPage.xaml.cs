@@ -2,6 +2,7 @@ using System.Diagnostics;
 using System.IO.Compression;
 using System.Net;
 using System.Xml;
+using System.Net.Http;
 using static Android.Icu.Text.CaseMap;
 using static Android.Provider.MediaStore;
 
@@ -21,11 +22,16 @@ public partial class ApiPage : ContentPage
 	{
 		try
         {
+            HttpRequestMessage request = new HttpRequestMessage(HttpMethod.Get, "http://10.0.2.2:3000/epub/1");
+            HttpResponseMessage response = await client.SendAsync(request);
+
+
             //Call API
-			var response = await client.GetAsync("http://10.0.2.2:3000/epub/1");
+            //var response = await client.GetAsync("http://10.0.2.2:3000/epub/1");
            
 			if (response.IsSuccessStatusCode)
-			{
+            { 			
+
 				var content = response.Content;
 
 				//Open EPUB in Zip
@@ -72,7 +78,7 @@ public partial class ApiPage : ContentPage
 		catch (Exception ex)
 		{
             await DisplayAlert(ex.Message, ex.StackTrace, "ok");
-            Debug.WriteLine(ex.StackTrace);
+            Debug.WriteLine(ex.Message + "ERROOOOOOR");
 
         }
     }

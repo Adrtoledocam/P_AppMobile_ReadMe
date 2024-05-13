@@ -13,7 +13,7 @@
             <Label Text="XML"/>
             <Switch Toggled="Switch_Toggled" IsToggled="False"></Switch>
         </HorizontalStackLayout>
-        
+
         <Button Text="Load data" Clicked="Load_Button"></Button>
         <Label x:Name="title" Text="book title"></Label>
         <Image x:Name="cover" WidthRequest="150" HeightRequest="150" Source="book.png"/>
