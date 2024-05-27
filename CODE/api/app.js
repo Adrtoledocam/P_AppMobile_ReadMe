@@ -23,8 +23,8 @@ const Book = sequelize.define(
    "Book",
    {
       id: {
-         type: Sequelize.UUID,
-         defaultValue: Sequelize.UUIDV4,
+         type: Sequelize.INTEGER, 
+         autoIncrement: true, 
          primaryKey: true,
       },
 

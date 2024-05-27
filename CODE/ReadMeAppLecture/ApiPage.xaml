@@ -16,7 +16,19 @@
 
         <Button Text="Load data" Clicked="Load_Button"></Button>
         <Label x:Name="title" Text="book title"></Label>
-        <Image x:Name="cover" WidthRequest="150" HeightRequest="150" Source="book.png"/>
+        <AbsoluteLayout>
+
+            <Image x:Name="cover" WidthRequest="150" HeightRequest="150" Source="book.png" />
+            <Button Clicked="Cover_Clicked" BackgroundColor="Transparent" AbsoluteLayout.LayoutBounds="0,0,1,1" AbsoluteLayout.LayoutFlags="All"/>
+        </AbsoluteLayout>
+        <Label Text="Contenido del libro aquí" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" />
+        <ScrollView>
+            <StackLayout x:Name="contentLayout" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand"/>
+        </ScrollView>
+
+        
+
+
 
     </VerticalStackLayout>
 </ContentPage>

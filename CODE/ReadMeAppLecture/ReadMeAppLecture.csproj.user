@@ -16,6 +16,9 @@
     <MauiXaml Update="ApiPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
+    <MauiXaml Update="ReadPage.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
     <MauiXaml Update="Settings.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>

@@ -57,7 +57,9 @@ public partial class ApiPage : ContentPage
                     XmlNode titleNode = xmlDoc.SelectSingleNode("//dc:title", GetNamespaceManager(xmlDoc));
 
                     bookTitle = titleNode != null ? titleNode.InnerText : "not found with xml";
+
                     #endregion
+
                 }
                 else
                 {
@@ -69,6 +71,10 @@ public partial class ApiPage : ContentPage
                     #endregion
                 }
                 title.Text = bookTitle;
+                //await Navigation.PushAsync(new ReadPage());
+
+
+
             }
             else
             {
@@ -82,6 +88,12 @@ public partial class ApiPage : ContentPage
 
         }
     }
+    private async void Cover_Clicked(object sender, System.EventArgs e)
+    {
+        // Aquí puedes navegar a la página de lectura del libro
+        await Navigation.PushAsync(new ReadPage());
+    }
+
     private static XmlNamespaceManager GetNamespaceManager(XmlDocument xmlDoc)
     {
         XmlNamespaceManager nsManager = new XmlNamespaceManager(xmlDoc.NameTable);

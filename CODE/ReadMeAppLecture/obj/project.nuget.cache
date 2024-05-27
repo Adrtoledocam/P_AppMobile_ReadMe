@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "JoCSB1BkzvRCQIp/Z0Gd4fz/h8CyPbhirOc6TKqHMq0burT69o7Ho5wD+BX6g2aprdmEtbsuSrf+DuhUYWLpTw==",
+  "dgSpecHash": "CcPhmA76ZA1FxP40QHLHTYktVHDzyDbjvexXU0FBFcd3VsO8jqcw43WnMy8tgo/nh5x/dv1yQjPjXJrlJpJWaA==",
   "success": true,
   "projectFilePath": "C:\\Users\\pq17tmn\\Documents\\GitHub\\P_AppMobile_ReadMe\\CODE\\ReadMeAppLecture\\ReadMeAppLecture.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\pq17tmn\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512",
     "C:\\Users\\pq17tmn\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\pq17tmn\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.4\\microsoft.data.sqlite.core.8.0.4.nupkg.sha512",
     "C:\\Users\\pq17tmn\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.4\\microsoft.entityframeworkcore.8.0.4.nupkg.sha512",
